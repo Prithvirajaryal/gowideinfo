@@ -1,0 +1,37 @@
+header { 
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px 20px;
+  border: 1px solid blue;
+  background-color: skyblue;
+  color: blue
+}
+.logo {
+	text-align: left;
+}
+.head {
+	text-align: right;
+}
+nav {
+	background-color: lightblue;
+	padding: 5px;
+	margin: 5px;
+	border: 1px skyblue;
+	color: blue;
+	text-decoration: none;
+}
+
+
+div {
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px 20px;
+  border: 1px solid blue;
+  }
+ 
+ footer {
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px 20px;
+  border: 1px solid blue;
+  }
